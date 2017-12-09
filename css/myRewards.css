@@ -1,5 +1,5 @@
 /**
- *此代码引用自 https://github.com/HaddyYang/tctip
+ * update 20170120
  * **/
 .myRewards {position:fixed; _position:absolute; right:0; top:10%; z-index:10000; padding-left:30px; width:0px; overflow:hidden; box-sizing: content-box;}
 .myRewards ul,.myRewards li{margin:0;padding:0;}
@@ -11,7 +11,7 @@
 .myRewards-main .myR-h{ padding:0 0 0 6px; font-size:14px; font-weight:normal; background-image:none; padding-left: 1em; height:36px; line-height:36px;}
 .myRewards-main .myR-bot{ padding-right:6px; font-size:12px; text-align:right; height:26px; line-height:26px;}
 .myR-bot a:hover{ text-decoration:underline;}
-.myRewardsbox{ font-size:0; background-color:#ddd; width:240px;}
+.myRewardsbox{ font-size:0; background-color:#eeeeee; width:240px;}
 .myRewards-list{ display:inline-block; *display:inline; *zoom:1; vertical-align:middle; width:90px; font-size:12px;}
 .myRewards-list ul{ list-style:none;}
 .myRewards-list ul.not-full{border-top:1px solid #dfdfdf;}
